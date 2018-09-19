@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
-tittle: Alberturria's page
+title: Alberturria's page
 description: En esta página podrás ver un resumen de mis proyectos.
-show-downloads: true
+show_downloads: true
