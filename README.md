@@ -4,7 +4,7 @@
  en esta página de Github Pages realizaré un pequeño resumen de cada uno de mis
 repositorios.
 
-### [Hospital-IV](https://github.com/alberturria/Hospital-IV)
+### [Hospital-IV](https://alberturria.github.io/Hospital-IV/)
 
 Este repositorio está destinado a la realización de un proyecto para la asignatura de
 Infraestructura Virtual, de la Universidad de Granada.
